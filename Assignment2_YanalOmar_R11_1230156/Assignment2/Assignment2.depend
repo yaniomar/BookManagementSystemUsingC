@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714816699 source:c:\users\asus\onedrive\desktop\bzu\comp\assignment2_yanalomar_r11_1230156\assignment2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

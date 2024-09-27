@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1715796674 source:c:\users\asus\onedrive\desktop\bzu\comp\project phase1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1716398153 source:c:\users\asus\onedrive\desktop\bzu\comp\project phase2\main.c
+	<stdio.h>
+	<stdlib.h>
+
